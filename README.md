@@ -1,3 +1,3 @@
-Nama: Aldilah Rezki Rhamadani Syahsir
-NIM: D121201036
-Kelas: Pemrograman Mobile Kelas B
+#### Nama: Aldilah Rezki Rhamadani Syahsir <br>
+#### NIM: D121201036 <br>
+#### Kelas: Pemrograman Mobile Kelas B
